@@ -56,7 +56,7 @@ Front-End Development is my current playground where logic meets creativity. I l
 <!-- START GITHUB STATS -->
 ## 📊 GitHub Stats
 <div>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Lance19Kent&theme=dark&hide_border=false" width="100%"/>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Lance19Kent&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
