@@ -44,10 +44,10 @@ Front-End Development is my current playground where logic meets creativity. I l
     <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase" /></a>
 </p>
 
-### **Tools & DevOps**
+### **Tools & Deployment**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,arduino" /></a>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,arduino,vercel" /></a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="45" alt="Trello" />
 </p>
 
