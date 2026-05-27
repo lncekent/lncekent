@@ -27,7 +27,7 @@ Front-End Development is my current playground where logic meets creativity. I l
 ### **Languages**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,java,cs,python" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,java,cs,python,typescript" />
   </a>
 </p>
 
@@ -38,10 +38,16 @@ Front-End Development is my current playground where logic meets creativity. I l
   </a>
 </p>
 
-### **Tools & Database**
+### **Databases**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,mysql,vscode,visualstudio,arduino" /></a>
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase" /></a>
+</p>
+
+### **Tools & DevOps**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,arduino" /></a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="45" alt="Trello" />
 </p>
 
