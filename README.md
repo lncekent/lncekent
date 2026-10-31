@@ -34,7 +34,7 @@ Front-End Development is my current playground where logic meets creativity. I l
 ### **Frameworks & Libraries**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,tailwind,bootstrap,nodejs,vite,react&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=laravel,tailwind,bootstrap,nodejs,vite,react,angular,.net&theme=dark" />
   </a>
 </p>
 
@@ -47,7 +47,7 @@ Front-End Development is my current playground where logic meets creativity. I l
 ### **Tools & Deployment**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,arduino,vercel" /></a>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,arduino,vercel,notion" /></a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="45" alt="Trello" />
 </p>
 
