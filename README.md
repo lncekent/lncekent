@@ -34,7 +34,7 @@ Front-End Development is my current playground where logic meets creativity. I l
 ### **Frameworks & Libraries**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,tailwind,bootstrap,nodejs,vite,react,angular,dotnet,cs&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=laravel,tailwind,bootstrap,nodejs,vite,react,angular,dotnet&theme=dark" />
   </a>
 </p>
 
